@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Canet\\OneDrive\\Documents\\Dev-projects\\Scolaire\\csharp\\5. Tests\\Exercices_Tests2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9F72C4-4FA2-4357-8CC2-630B4C6A7A85}|Exercices_Tests2.csproj|c:\\users\\canet\\onedrive\\documents\\dev-projects\\scolaire\\csharp\\5. tests\\exercices_tests2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9F72C4-4FA2-4357-8CC2-630B4C6A7A85}|Exercices_Tests2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B5D42-84BA-465D-B09C-7414EF125E4A}|..\\Exercices_Tests2.Tests\\Exercices_Tests2.Tests.csproj|c:\\users\\canet\\onedrive\\documents\\dev-projects\\scolaire\\csharp\\5. tests\\exercices_tests2.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Canet\\OneDrive\\Documents\\Dev-projects\\Scolaire\\csharp\\5. Tests\\Exercices_Tests2.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Exercices_Tests2.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Canet\\OneDrive\\Documents\\Dev-projects\\Scolaire\\csharp\\5. Tests\\Exercices_Tests2.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Exercices_Tests2.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:39:08.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Canet\\OneDrive\\Documents\\Dev-projects\\Scolaire\\csharp\\5. Tests\\Exercices_Tests2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Canet\\OneDrive\\Documents\\Dev-projects\\Scolaire\\csharp\\5. Tests\\Exercices_Tests2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwDwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:07:18.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

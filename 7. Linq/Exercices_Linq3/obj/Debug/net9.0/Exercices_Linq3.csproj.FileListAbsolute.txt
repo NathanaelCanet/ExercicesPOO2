@@ -1,0 +1,15 @@
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\bin\Debug\net9.0\Exercices_Linq3.exe
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\bin\Debug\net9.0\Exercices_Linq3.deps.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\bin\Debug\net9.0\Exercices_Linq3.runtimeconfig.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\bin\Debug\net9.0\Exercices_Linq3.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\bin\Debug\net9.0\Exercices_Linq3.pdb
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\Exercices_Linq3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\Exercices_Linq3.AssemblyInfoInputs.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\Exercices_Linq3.AssemblyInfo.cs
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\Exercices_Linq3.csproj.CoreCompileInputs.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\Exercices_Linq3.sourcelink.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\Exercices_Linq3.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\refint\Exercices_Linq3.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\Exercices_Linq3.pdb
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\Exercices_Linq3.genruntimeconfig.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\7. Linq\Exercices_Linq3\obj\Debug\net9.0\ref\Exercices_Linq3.dll

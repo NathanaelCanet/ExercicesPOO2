@@ -1,0 +1,15 @@
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\bin\Debug\net8.0\Exercices_Tests2.exe
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\bin\Debug\net8.0\Exercices_Tests2.deps.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\bin\Debug\net8.0\Exercices_Tests2.runtimeconfig.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\bin\Debug\net8.0\Exercices_Tests2.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\bin\Debug\net8.0\Exercices_Tests2.pdb
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\Exercices_Tests2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\Exercices_Tests2.AssemblyInfoInputs.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\Exercices_Tests2.AssemblyInfo.cs
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\Exercices_Tests2.csproj.CoreCompileInputs.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\Exercices_Tests2.sourcelink.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\Exercices_Tests2.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\refint\Exercices_Tests2.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\Exercices_Tests2.pdb
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\Exercices_Tests2.genruntimeconfig.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\5. Tests\Exercices_Tests2\obj\Debug\net8.0\ref\Exercices_Tests2.dll

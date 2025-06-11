@@ -1,0 +1,15 @@
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\bin\Debug\net9.0\Delegates_exercices2.exe
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\bin\Debug\net9.0\Delegates_exercices2.deps.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\bin\Debug\net9.0\Delegates_exercices2.runtimeconfig.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\bin\Debug\net9.0\Delegates_exercices2.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\bin\Debug\net9.0\Delegates_exercices2.pdb
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\Delegates_exercices2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\Delegates_exercices2.AssemblyInfoInputs.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\Delegates_exercices2.AssemblyInfo.cs
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\Delegates_exercices2.csproj.CoreCompileInputs.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\Delegates_exercices2.sourcelink.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\Delegates_exercices2.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\refint\Delegates_exercices2.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\Delegates_exercices2.pdb
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\Delegates_exercices2.genruntimeconfig.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\3. Delegates\Delegates_exercices2\obj\Debug\net9.0\ref\Delegates_exercices2.dll

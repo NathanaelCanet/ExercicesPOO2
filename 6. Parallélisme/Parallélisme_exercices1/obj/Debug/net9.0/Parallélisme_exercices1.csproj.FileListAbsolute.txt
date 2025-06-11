@@ -1,0 +1,15 @@
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\Parallélisme_exercices1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\Parallélisme_exercices1.AssemblyInfoInputs.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\Parallélisme_exercices1.AssemblyInfo.cs
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\Parallélisme_exercices1.csproj.CoreCompileInputs.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\Parallélisme_exercices1.sourcelink.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\bin\Debug\net9.0\Parallélisme_exercices1.exe
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\bin\Debug\net9.0\Parallélisme_exercices1.deps.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\bin\Debug\net9.0\Parallélisme_exercices1.runtimeconfig.json
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\bin\Debug\net9.0\Parallélisme_exercices1.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\bin\Debug\net9.0\Parallélisme_exercices1.pdb
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\Parallélisme_exercices1.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\refint\Parallélisme_exercices1.dll
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\Parallélisme_exercices1.pdb
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\Parallélisme_exercices1.genruntimeconfig.cache
+C:\Users\Canet\OneDrive\Documents\Dev-projects\Scolaire\csharp\6. Parallélisme\Parallélisme_exercices1\obj\Debug\net9.0\ref\Parallélisme_exercices1.dll
