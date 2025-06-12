@@ -9,7 +9,7 @@ public class MyDataStructure
     }
     public void MyMap(Action<int> f)
     {
-        foreach (value in this.Values)
+        foreach (var value in this.Values)
         {
             f(value);
         }
@@ -17,7 +17,7 @@ public class MyDataStructure
     public MyDataStructure MyFilter(Predicate<int> f)
     {
         List<int> tab = new List<int>();
-        foreach (value in this.Values)
+        foreach (var value in this.Values)
         {
             if (f(value))
             {
