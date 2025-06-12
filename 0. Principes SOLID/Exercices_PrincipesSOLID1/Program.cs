@@ -4,70 +4,107 @@ namespace Exercices_PrincipesSOLID1;
 class Program
 {
     //S
-    public class RapportDeVente{
-        public void calculerTotalVentes(){}
+    public class RapportDeVente
+    {
+        public void calculerTotalVentes() { }
     }
-    public class RapportImpression{
-        public void imprimerRapport(){}
+    public class RapportImpression
+    {
+        public void imprimerRapport() { }
     }
     //O
     //classe typeClient aussi possible
-    
-    public class Facture{
-        private Dictionary<string, double> typeClient = 
-        new Dictionary<string,double>(){
+
+    public class Facture
+    {
+        private Dictionary<string, double> typeClient =
+        new Dictionary<string, double>(){
         {"Standard",30},
         {"Premium",50}
-            
+
         };
-        public double appliquerReduction(double montant, string typeClientNom){
+        public double appliquerReduction(double montant, string typeClientNom)
+        {
             //peut se faire avec le nom du client
-            return montant * (1-typeClient[typeClientNom]/100);
+            return montant * (1 - typeClient[typeClientNom] / 100);
         }
     }
     //L
     // Pingouin ne sait pas voler => pour ne pas altérer si on stocker Pingouin dans Oiseau
-    public class Oiseau{
-        public void voler(){
-            //opérations etc tout ce que tu veux
+    // Interface pour les capacités de vol
+    public interface IVolant
+    {
+        void voler();
+    }
+
+    // Classe de base pour tous les oiseaux
+    public abstract class Oiseau
+    {
+        // Comportements communs à tous les oiseaux
+        public void manger()
+        {
+            Console.WriteLine("Je mange");
+        }
+
+        public void respirer()
+        {
+            Console.WriteLine("Je respire");
+        }
+    }
+
+    // Oiseaux qui peuvent voler
+    public class OiseauVolant : Oiseau, IVolant
+    {
+        public void voler()
+        {
             Console.WriteLine("Je peux voler");
         }
     }
-    
-    public class Pingouin : Oiseau{
-        public void voler(){
-            Console.WriteLine("Je ne peux pas voler");
-        }
+
+    // Oiseaux qui ne peuvent pas voler
+    public class Pingouin : Oiseau
+    {
+        // N'implémente pas IVolant
     }
     //I
-    public interface IImprimeur{
+    public interface IImprimeur
+    {
         void Imprimer();
     }
-    public interface IScanneur{
+    public interface IScanneur
+    {
         void Scanner();
     }
-    public interface IFaxeur{
+    public interface IFaxeur
+    {
         void Faxer();
     }
-    public class ImprimanteBasique : IImprimeur{
-        public void Imprimer(){
-            
+    public class ImprimanteBasique : IImprimeur
+    {
+        public void Imprimer()
+        {
+
         }
     }
     //D
-    public interface IMoyenDePaiement{
+    public interface IMoyenDePaiement
+    {
         void paiementMessage();
     }
-    
-    public class PaiementParCarte{
-        public void paiementMessage(){
+
+    public class PaiementParCarte : IMoyenDePaiement
+    {
+        public void paiementMessage()
+        {
             Console.WriteLine("Carte");
         }
     }
-    
-    public class GestionCommande{
+
+    public class GestionCommande
+    {
         private IMoyenDePaiement moyenDePaiement;
-        public GestionCommande(IMoyenDePaiement moyenDePaiement){
+        public GestionCommande(IMoyenDePaiement moyenDePaiement)
+        {
             this.moyenDePaiement = moyenDePaiement;
         }
     }
